@@ -1,1 +1,1 @@
-# Mini-Project
+## Mini-Project : Pebble Detection and Plant Stress
